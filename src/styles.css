@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+h1 {
+	text-align: center;
+	margin-top: 0;
+}
+
+body {
+	padding: 20px
+}
+
+form {
+	padding-bottom: 25px;
+}
+
+.checkbox-label, .update-button {
+	margin-right: 10px;
+}
+
+.save-button, .update-button, .delete-button {
+	float: right;
+}
+
+.save-button {
+	margin-right: 10px;
+}
+
